@@ -1,5 +1,3 @@
-//@typescript-eslint/no-unused-vars
-
 import { validateAppointment } from "@/lib";
 import { AppointmentRequest } from "@/types";
 import { NextResponse } from "next/server";
